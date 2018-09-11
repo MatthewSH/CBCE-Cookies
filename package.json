@@ -1,0 +1,19 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "private": true,
+  "main": "addon.js",
+  "author": "matthew",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewSH/CBCE-Cookies.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewSH/CBCE-Cookies/issues"
+  },
+  "homepage": "https://github.com/MatthewSH/CBCE-Cookies#readme"
+}
